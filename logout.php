@@ -1,5 +1,7 @@
 <?php
+   //sessiont start
    session_start();
+   //destroy login
    session_destroy();
 ?>
 
